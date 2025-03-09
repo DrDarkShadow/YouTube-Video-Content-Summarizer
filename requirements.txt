@@ -1,0 +1,8 @@
+streamlit
+langchain_openai
+youtube_transcript_api
+re
+requests
+python-dotenv
+os
+langchain_core
