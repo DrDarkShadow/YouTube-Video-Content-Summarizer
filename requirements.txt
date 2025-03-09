@@ -3,5 +3,4 @@ langchain_openai
 youtube_transcript_api
 requests
 python-dotenv
-os
 langchain_core
