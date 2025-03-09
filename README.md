@@ -125,8 +125,8 @@ This project was built with 💻 **Streamlit** + 🤖 **Azure OpenAI** to simpli
 If you liked this project, give it a ⭐ **star** on GitHub.  
 
 🔗 **Connect with me on:**  
-- 🌟 [LinkedIn](https://linkedin.com/in/your-username)  
-- 🔗 [GitHub](https://github.com/your-username)  
+- 🌟 [LinkedIn]([https://www.linkedin.com/in/prateek-gaur-3099a7228/])  
+- 🔗 [GitHub]([https://github.com/your-username](https://github.com/DrDarkShadow))  
 
 ---
 
