@@ -1,5 +1,9 @@
 # 🎥 **YouTube Video Content Summarizer**
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://botpdf.streamlit.app/)
+
+🔗 Live Demo: [[https://yt-summariz.streamlit.app/](https://yt-summariz.streamlit.app/)]
+
 🚀 **Streamline your video learning experience!**  
 **YouTube Video Content Summarizer** is a powerful web app built with **Streamlit** that allows you to extract and summarize content from any **YouTube video** 🎥 in just a few seconds. It uses **Azure OpenAI (GPT-4o)** 💻 to generate concise, accurate, and easy-to-understand summaries in **bullet points** or **paragraph formats**.  
 
